@@ -1,0 +1,20 @@
+Origin: mamala's repo
+
+Label: mamala's repo
+
+Suite: stable
+
+Version: 0.1
+
+Codename: dslk
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: 654
+
+MD5Sum:
+08d0aa12baedfe4ab2f13f2498939ea2 5153 Packages
+ce59f7d9facf3ba4e7069e0e0078c248 1787 Packages.gz
+7181e524c4415ef78cf28222f2118dbc 1940 Packages.bz2
