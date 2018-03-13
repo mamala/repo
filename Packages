@@ -1,135 +1,135 @@
 Package: com.mamala.betternethack
 Version: 3.3.2-1
 Architecture: iphoneos-arm
+Maintainer: techprohacker
 Depends: mobilesubstrate
 Filename: deb/com.mamala_betternethack_3.3.2-1_iphoneos-arm.deb
-Size: 3360
-MD5sum: cc45e71b9b98c0139329fb019d22d897
-SHA1: 5abae1afdfbeeaddbb3983ae349d34df9d97d51a
-SHA256: 82ef8d83972407ab0bbaf95ece9272d7d7a8d8d11d6653da7ea1eaec1e214022
+Size: 3330
+MD5sum: ce3282b5ff16c32c2f3266288fd6d9c2
+SHA1: 4d3f36e953db46b5560ec531a349315db4e15002
+SHA256: 17003c56993bd25eecbb8876fec813f9d1042ea2708ba1600c38f3c9705b49fe
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
 Author: techprohacker
-Depiction: https://mamala.github.io/repo/depiction/betternethack/index.html
 Name: betternetHack
 
 Package: com.mamala.carbonpremiumcheats
 Version: 1.0.0-1
 Architecture: iphoneos-arm
+Maintainer: Ficgan
 Depends: mobilesubstrate
 Filename: deb/com.mamala_carbonpremiumcheats_1.0.0-1_iphoneos-arm.deb
-Size: 4512
-MD5sum: f20582186c4d16febf557ccb8dacd863
-SHA1: ae0fb0eeb3f35f2c9667aa35f79b391589411b31
-SHA256: fa74f6fd3be81a6204365921147a974f0666cf66aef8ddbe383639a7fd0b17cb
+Size: 4482
+MD5sum: 318987e05403000550c9a458076d0160
+SHA1: c85a5230d63399a46d3340e7d9d306c3a740d5a9
+SHA256: d39d3a5c81e2673964890c3ffb6c0a740e7b552271a23d942de51a43fb141d35
 Section: Tweaks
 Description: An awesome Cydia Substrate tweak from iOSGods.com!
 Author: Ficgan
-Depiction: https://mamala.github.io/repo/depiction/carbonpremiumcheats/index.html
 Name: Carbon Premium Cheats
 
 Package: com.mamala.enlightphotofoxpro
 Version: 0.0.2
 Architecture: iphoneos-arm
+Maintainer: pxcex
 Depends: mobilesubstrate
 Filename: deb/com.mamala_enlightphotofoxpro_0.0.2_iphoneos-arm.deb
-Size: 56824
-MD5sum: faf7e9807f38bce9722a32fd9a239252
-SHA1: c6803c731a4d4c80b6afb02ab35c02e58b499eeb
-SHA256: e1425876fdc71987a3b9e350576282eb387a511bf7d8f346c7bc0b6c4e38cfe6
+Size: 56796
+MD5sum: 83852891012d8497ed1a1063169bff61
+SHA1: e11747aa6f0b6bf22ae539f6ea94a9c1c588e7c0
+SHA256: e40e9df9b426f465cd11a3476b7f21bd6d5f7f7eda569dccafba5043e3bdf646
 Section: Tweaks
 Description: Free Unlimited access.Free Unlimited access.Free Unlimited access.
 Author: pxcex
-Depiction: https://mamala.github.io/repo/depiction/enlightphotofoxpro/index.html
 Name: Enlight Photofox Pro
 
 Package: com.mamala.enlightquickshothack
 Version: 0.0.2
 Architecture: iphoneos-arm
+Maintainer: pxcex
 Depends: mobilesubstrate
 Filename: deb/com.mamala_enlightquickshothack_0.0.2_iphoneos-arm.deb
-Size: 56896
-MD5sum: 24c36cf94ef3ab7e519f7f0876d26d6e
-SHA1: 1035817df003f0b432feff445e6bb41c6f267870
-SHA256: a7a7641d1d5a29b15aeef6b7eed82054982ffaa68d4f94be1ffdacdb53de3f3a
+Size: 56866
+MD5sum: b5f8b6efc74cb176dfd5bb5b6d25eba6
+SHA1: 78786cd74e84827639958ebd18a60732312c4ebf
+SHA256: a189513b26d75f81de663db7bcfd4243349de9ce542dc8bb668b897520d25863
 Section: Tweaks
 Description: Unlimited Access.Unlimited Access.Unlimited Access.Unlimited Access.
 Author: pxcex
-Depiction: https://mamala.github.io/repo/depiction/enlightquickshothack/index.html
 Name: Enlight Quickshot Hack
 
 Package: com.mamala.facetune2cheatspatcher
 Version: 1.0.0-2+debug
 Architecture: iphoneos-arm
+Maintainer: Majd Awwad
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/com.mamala_facetune2cheatspatcher_1.0.0-2_iphoneos-arm.deb
-Size: 18990
-MD5sum: 31ccce24a728f598f61ea846b85a9410
-SHA1: 130fa9aba06c9efc389cbccfde6fd7d77df04d70
-SHA256: c77c62d999d8f647891ee0618a514075339369de700d8d74c5b5108d85510b25
+Size: 18954
+MD5sum: e6f86707e2115ba4849eb43797a0040b
+SHA1: d2011e51dae2139a4ffd20bb704cd39cf0369198
+SHA256: f787f473cf654be480b9489f28705fb977b91d8787b2d5076371c7c7f59e40ed
 Section: Tweaks
 Description: - Premium Features | Enable/Disable the hack in Settings- Premium Features | Enable/Disable the hack in Settings
 Author: Majd Awwad
-Depiction: https://mamala.github.io/repo/depiction/facetune2cheatspatcher/index.html
 Name: FaceTune 2 Cheats (Patcher)
 
 Package: com.mamala.iap
 Version: 0.0.1-5
 Architecture: iphoneos-arm
+Maintainer: JustinPet26
 Depends: mobilesubstrate
 Filename: deb/com.mamala_iap_0.0.1-5_iphoneos-arm.deb
-Size: 32308
-MD5sum: d25d4140a03f4dc3d7e01f41d3a71026
-SHA1: 7bd4ee5f701c324b5afeec292f958d8d0cae1e92
-SHA256: 32ac0c7c944977443d263f2dc6f3c33c87ed576d40bf1fc7f67fff67b06396d6
+Size: 32278
+MD5sum: fceb5beb27f1d6a73f9f2848d4a99fc7
+SHA1: f263d7bca67b20bc0c387385ac00fc88fff22254
+SHA256: 9d2ba833960cbaf455a8094b65efc8583901e300971077f73000a498abff9d45
 Section: Tweaks
 Description: Free in app purchases by JustinPet26.Free in app purchases by JustinPet26.
 Author: JustinPet26
-Depiction: https://mamala.github.io/repo/depiction/iap/index.html
 Name: iAP26
 
 Package: com.mamala.inapp
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
+Maintainer: System Administrator
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: deb/com.mamala_inapp_0.0.1-2_iphoneos-arm.deb
-Size: 2982
-MD5sum: 8f20585f2d1fcadf5277dcf816e9d727
-SHA1: 2ba86d41d67341406fed04ad8ef2a2dcef9947ae
-SHA256: 2b6d75b93858c9a1942c59b3ff1b8c59164ed5a307d56bcbb5be66125969b5fa
+Size: 2952
+MD5sum: f5edce8069327090279ffa4f526a7878
+SHA1: 6733a1fd22d589865bc40cd266717e8e4210f1c9
+SHA256: d384d5f07b0a326986f4ec181af7a7a07b02497399fa213ae9a3118a753edd51
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
 Author: System Administrator
-Depiction: https://mamala.github.io/repo/depiction/inapp/index.html
 Name: Inapp
 
 Package: com.mamala.livewallpaperhack
 Version: 0.0.1-1
 Architecture: iphoneos-arm
+Maintainer: pxcex
 Depends: mobilesubstrate
 Filename: deb/com.mamala_livewallpaperhack_0.0.1-1_iphoneos-arm.deb
-Size: 3902
-MD5sum: b8613583abb01dbd5577fb9b710025ab
-SHA1: 16346a7686d10ecf7ac11cc571a7477f441537c9
-SHA256: 22b67d24334f2a20708791b78333d1387d583907cf08c4622e9218c2c22c865f
+Size: 3872
+MD5sum: 3d96d9939e43dd921acab12698a6bce5
+SHA1: 5f2b3031da9feff1da8185c5b72fa5db31b629df
+SHA256: 50e123c9a2e8e21226707d9168c17b5b357bbf6f20d347a1ccd004a4c372736d
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
 Author: pxcex
-Depiction: https://mamala.github.io/repo/depiction/livewallpaperhack/index.html
 Name: LiveWallpaper Hack
 
 Package: com.mamala.screenshotx
 Version: 1.0~beta2
 Architecture: iphoneos-arm
+Maintainer: junesiphone
 Depends: mobilesubstrate
 Filename: deb/com.mamala_screenshotx_1.0_iphoneos-arm.deb
-Size: 535960
-MD5sum: c527c56614dee1b6243b9fe1efc3c88a
-SHA1: 37bd7d29d711b77e809ef5932d408d89d3ca80cf
-SHA256: 141c149eae6bdca29dae41323c19462d95dd2462205f99bce688698205d539f1
+Size: 535932
+MD5sum: 51d8fe3ab3247ec04542ea23f9885bb5
+SHA1: 7a7fdb89dad94622d63363e215182dfae664ad79
+SHA256: bfc094e3cd4690067414e42904b9887a8d6f75110dc6a243efacfde58e1e4d4d
 Section: Addons
 Description: ScreenshotX (beta) for iPhoneX link on my patreon for top tier supporters and above.For free iOS by @cydia_kiiMO Thanks!
 Author: junesiphone
-Depiction: https://mamala.github.io/repo/depiction/screenshotx/index.html
 Name: ScreenshotX
 
