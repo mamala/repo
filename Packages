@@ -3,7 +3,7 @@ Version: 3.3.2-1
 Architecture: iphoneos-arm
 Maintainer: techprohacker
 Depends: mobilesubstrate
-Filename: deb/com.mamala_betternethack_3.3.2-1_iphoneos-arm.deb
+Filename: ./deb/com.mamala_betternethack_3.3.2-1_iphoneos-arm.deb
 Size: 3330
 MD5sum: ce3282b5ff16c32c2f3266288fd6d9c2
 SHA1: 4d3f36e953db46b5560ec531a349315db4e15002
@@ -18,22 +18,37 @@ Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Ficgan
 Depends: mobilesubstrate
-Filename: deb/com.mamala_carbonpremiumcheats_1.0.0-1_iphoneos-arm.deb
+Filename: ./deb/com.mamala_carbonpremiumcheats_1.0.0-1_iphoneos-arm.deb
 Size: 4482
-MD5sum: 318987e05403000550c9a458076d0160
-SHA1: c85a5230d63399a46d3340e7d9d306c3a740d5a9
-SHA256: d39d3a5c81e2673964890c3ffb6c0a740e7b552271a23d942de51a43fb141d35
+MD5sum: 2b0ecff6f33396ff5a3a6d932cd6419e
+SHA1: 9603c1e11218f2026cabb1ecffb30e1971d1d0b7
+SHA256: 8a4bcf88dcd16f2537d46ac1e69f4a1ea5d025af89acec9389ad30ca1b21ac8b
 Section: Tweaks
 Description: An awesome Cydia Substrate tweak from iOSGods.com!
 Author: Ficgan
 Name: Carbon Premium Cheats
+
+Package: com.mamala.darkroom
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: pxcex
+Depends: mobilesubstrate
+Filename: ./deb/com.mamala_darkroom_0.0.2_iphoneos-arm.deb
+Size: 56270
+MD5sum: 7cc0537f3af9189f83fa8eb93674b528
+SHA1: 9cc093f0a21b97c2546b48c0e2d94f2cc59eac0d
+SHA256: 2ea81a53920af08c42ebda89348fe8f41aef3a2324c516cd2ef67449f9c16145
+Section: Tweaks
+Description: Pro Tools & Premium Filters!
+Author: pxcex
+Name: Darkroom Hack
 
 Package: com.mamala.enlightphotofoxpro
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: pxcex
 Depends: mobilesubstrate
-Filename: deb/com.mamala_enlightphotofoxpro_0.0.2_iphoneos-arm.deb
+Filename: ./deb/com.mamala_enlightphotofoxpro_0.0.2_iphoneos-arm.deb
 Size: 56796
 MD5sum: 83852891012d8497ed1a1063169bff61
 SHA1: e11747aa6f0b6bf22ae539f6ea94a9c1c588e7c0
@@ -48,7 +63,7 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: pxcex
 Depends: mobilesubstrate
-Filename: deb/com.mamala_enlightquickshothack_0.0.2_iphoneos-arm.deb
+Filename: ./deb/com.mamala_enlightquickshothack_0.0.2_iphoneos-arm.deb
 Size: 56866
 MD5sum: b5f8b6efc74cb176dfd5bb5b6d25eba6
 SHA1: 78786cd74e84827639958ebd18a60732312c4ebf
@@ -63,7 +78,7 @@ Version: 1.0.0-2+debug
 Architecture: iphoneos-arm
 Maintainer: Majd Awwad
 Depends: mobilesubstrate, preferenceloader
-Filename: deb/com.mamala_facetune2cheatspatcher_1.0.0-2_iphoneos-arm.deb
+Filename: ./deb/com.mamala_facetune2cheatspatcher_1.0.0-2_iphoneos-arm.deb
 Size: 18954
 MD5sum: e6f86707e2115ba4849eb43797a0040b
 SHA1: d2011e51dae2139a4ffd20bb704cd39cf0369198
@@ -78,7 +93,7 @@ Version: 0.0.1-5
 Architecture: iphoneos-arm
 Maintainer: JustinPet26
 Depends: mobilesubstrate
-Filename: deb/com.mamala_iap_0.0.1-5_iphoneos-arm.deb
+Filename: ./deb/com.mamala_iap_0.0.1-5_iphoneos-arm.deb
 Size: 32278
 MD5sum: fceb5beb27f1d6a73f9f2848d4a99fc7
 SHA1: f263d7bca67b20bc0c387385ac00fc88fff22254
@@ -93,7 +108,7 @@ Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: System Administrator
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: deb/com.mamala_inapp_0.0.1-2_iphoneos-arm.deb
+Filename: ./deb/com.mamala_inapp_0.0.1-2_iphoneos-arm.deb
 Size: 2952
 MD5sum: f5edce8069327090279ffa4f526a7878
 SHA1: 6733a1fd22d589865bc40cd266717e8e4210f1c9
@@ -108,7 +123,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: pxcex
 Depends: mobilesubstrate
-Filename: deb/com.mamala_livewallpaperhack_0.0.1-1_iphoneos-arm.deb
+Filename: ./deb/com.mamala_livewallpaperhack_0.0.1-1_iphoneos-arm.deb
 Size: 3872
 MD5sum: 3d96d9939e43dd921acab12698a6bce5
 SHA1: 5f2b3031da9feff1da8185c5b72fa5db31b629df
@@ -123,7 +138,7 @@ Version: 1.0~beta2
 Architecture: iphoneos-arm
 Maintainer: junesiphone
 Depends: mobilesubstrate
-Filename: deb/com.mamala_screenshotx_1.0_iphoneos-arm.deb
+Filename: ./deb/com.mamala_screenshotx_1.0_iphoneos-arm.deb
 Size: 535932
 MD5sum: 51d8fe3ab3247ec04542ea23f9885bb5
 SHA1: 7a7fdb89dad94622d63363e215182dfae664ad79
